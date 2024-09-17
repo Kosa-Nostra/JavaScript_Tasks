@@ -1,2 +1,2 @@
-"use strict";
-alert('TEXT');
+"use strict";//комментарий
+alert('TEXT');/*и еще один комментарий*/
