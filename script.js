@@ -9,4 +9,6 @@ c = 3;
 alert(a);
 a = 20;
 alert(a);
+let task17 = 1 + 2 + 3;
+alert(task17);
 
