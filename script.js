@@ -11,4 +11,10 @@ a = 20;
 alert(a);
 let task17 = 1 + 2 + 3;
 alert(task17);
+a = 10;
+b = 2;
+alert(a+b);
+alert(a-b);
+alert(a*b);
+alert(a/b);
 
