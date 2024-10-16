@@ -1,5 +1,5 @@
 "use strict";//комментарий
-let num;
+/* let num;
 num = 123;
 alert(num)
 let a, b, c;
@@ -16,5 +16,9 @@ b = 2;
 alert(a+b);
 alert(a-b);
 alert(a*b);
-alert(a/b);
+ alert(a/b);*/
+let a = 1.5;
+let b = 0.75;
+alert(a+b);
+
 
