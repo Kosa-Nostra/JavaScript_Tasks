@@ -28,5 +28,8 @@ let b = 5;
 alert(a%b);
 a = 2;
 alert(a ** 10);
+let str1 = 'Ayder';
+let str2 = 'Muzhda';
+alert(str1, str2);
 
 
