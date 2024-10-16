@@ -26,5 +26,7 @@ alert(-a);
 a = 3;
 let b = 5;
 alert(a%b);
+a = 2;
+alert(a ** 10);
 
 
