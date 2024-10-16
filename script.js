@@ -23,5 +23,8 @@ alert(a+b);*/
 let a = -100;
 alert(a);
 alert(-a);
+a = 3;
+let b = 5;
+alert(a%b);
 
 
